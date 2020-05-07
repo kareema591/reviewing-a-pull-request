@@ -1,7 +1,6 @@
-## Welcome to awesome game of Tetris this game is not like youre oridinally tetris.
-
+## Welcome to awesome game of Tetris
 A project based learning activity for people who are getting started with Git and GitHub.
-// instructions listed here.
+***instructions listed here***
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
